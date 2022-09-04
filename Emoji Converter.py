@@ -7,8 +7,7 @@ def emoji_converter(message):
         ":)": "😊",
         ";)": "😏",
         ":|": "😐",
-        "-_-": "😑",
-        ":O": "😲"
+      
     }
     output = ""
     for word in words:
